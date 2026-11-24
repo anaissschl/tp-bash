@@ -1,0 +1,23 @@
+Question de reflexion 1 :
+chmod 644 permet au propriétaire de lire et modifier le fichier.
+Le groupe et les autres utilisateurs peuvent uniquement le lire.
+Le fichier n'est pas exécutable, même par son propriétaire.
+
+Question de reflexion 2 :
+Les guillemets permettent d'éviter les erreurs lorsque la variable
+est vide ou contient des espaces.
+
+Question de reflexion 3 :
+Sans set -Eeuo pipefail, si tar échoue, le script peut continuer
+son exécution même si la sauvegarde a échoué.
+
+Question de reflexion 4 :
+Cron ne s'exécute pas forcément dans le même dossier que le terminal.
+Les chemins absolus permettent d'éviter les erreurs liées aux chemins.
+
+Question de reflexion 5 :
+Il faut ajouter l'installation des dépendances, les tests automatiques,
+l'analyse du code et la compilation.
+Il faut gérer les erreurs de clonage, d'installation, de tests et
+de compilation avec des codes de retour : 0 pour une réussite
+et un code différent de 0 pour un échec.
