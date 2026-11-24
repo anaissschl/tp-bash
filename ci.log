@@ -1,0 +1,15 @@
+[2026-11-24 15:38:45] Erreur : URL du dépôt manquante
+[2026-11-24 15:39:18] Début du pipeline CI
+[2026-11-24 15:39:18] Clonage du dépôt
+[2026-11-24 15:39:19] Exécution des tests
+[2026-11-24 15:39:19] Tests réussis
+[2026-11-24 15:39:19] Pipeline terminé avec succès
+[2026-11-24 15:39:39] Début du pipeline CI
+[2026-11-24 15:39:39] Mise à jour du dépôt
+[2026-11-24 15:39:40] Exécution des tests
+[2026-11-24 15:39:40] Tests réussis
+[2026-11-24 15:39:40] Pipeline terminé avec succès
+[2026-11-24 15:40:18] Début du pipeline CI
+[2026-11-24 15:40:18] Mise à jour du dépôt
+[2026-11-24 15:40:19] Exécution des tests
+[2026-11-24 15:40:19] Tests échoués
